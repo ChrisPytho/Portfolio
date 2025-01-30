@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SQL Queries           | <a href="https://github.com/ChrisPytho/ChrisPytho/blob/main/Project_%20Apply%20filters%20to%20SQL%20queries.pdf">SQL Security Queries for Investigations</a>|
-| Scripting and Automation for File Updates | <a href="https://google.com">SQL Security Queries for Investigations</a>|
+| Scripting and Automation for File Updates | <a href="https://github.com/ChrisPytho/ChrisPytho/blob/main/Project_%20Algorithm%20for%20file%20updates%20in%20Python.pdf">Algorithm for File Updates</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">SOC Automation Lab|
 | Incident Response Planning and Execution      | <a href="https://google.com">SOC Automation Lab|
 | Case Management with TheHive                  | <a href="https://google.com">SOC Automation Lab|
