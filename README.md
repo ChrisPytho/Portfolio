@@ -19,6 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Audit and Risk Assessment        | <a href="https://github.com/ChrisPytho/Projects/blob/main/Project%20Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report%20(1).pdf">Botium Toys Report|
 | Managing File and Directory Permissions in Linux     | <a href="https://github.com/ChrisPytho/Projects/blob/main/Project_%20File%20permissions%20in%20Linux.pdf">File Permissions in Linux|
 | Incident Response Planning and Documentation        | <a href="https://github.com/ChrisPytho/Projects/blob/main/Project_%20Incident%20handler's%20journal%20.pdf">Incident Handler's Journal|
+| Security Automation  | <a href="https://github.com/ChrisPytho/Projects/blob/main/Project_%20IP%20watchlist%20automation.pdf">IP Watchlist Automation |
 
 ## Tools
 
