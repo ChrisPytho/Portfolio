@@ -3,11 +3,11 @@
 
 
 
-I am a motivated cybersecurity professional with a background in IT and hands-on experience with my completed Google Cybersecurity Certificate, I am eager to contribute to organizational security.
+Security Operations Center (SOC) Analyst with hands-on experience, specializing in real-time SIEM monitoring, event triage, and incident response.I am eager to contribute to organizational security.
 
 # Objective 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, I am now eager to learn more and work my way up in this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
