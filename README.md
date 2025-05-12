@@ -3,7 +3,7 @@
 
 
 
-Security Operations Center (SOC) Analyst with hands-on experience, specializing in real-time SIEM monitoring, event triage, and incident response.I am eager to contribute to organizational security.
+Security Operations Center (SOC) Analyst with hands-on experience, specializing in real-time SIEM monitoring, event triage, and incident response. I am eager to contribute to organizational security.
 
 # Objective 
 
