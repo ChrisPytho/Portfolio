@@ -3,11 +3,26 @@
 
 
 
-Security Operations Center (SOC) Analyst with hands-on experience, specializing in real-time SIEM monitoring, event triage, and incident response. I am eager to contribute to organizational security.
+Cybersecurity & IT support Professional with hands-on experience in security operations, 
+network troubleshooting, and systems monitoring. CompTIA Security+ certified with 
+real-world experience using Splunk, Microsoft Sentinel, Wireshark, and Python automation 
+in a live SOC environment.
+
 
 # Objective 
 
-My journey in computer science has led me to develop a passion for cybersecurity, I am now eager to learn more and work my way up in this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm an IT and cybersecurity professional with nearly two years of hands-on SOC experience 
+monitoring SIEM alerts, triaging incidents, and responding to threats in a live environment 
+environment using Splunk.
+
+I bring strong technical depth across both security operations and IT support, including 
+network troubleshooting, log analysis, Python automation, and incident escalation. Whether 
+supporting end users or defending enterprise environments, I focus on solving problems 
+quickly and communicating clearly.
+
+Currently holding a CompTIA Security+ and pursuing CySA+ and Splunk Core Power User 
+certifications. Based in DFW — open to SOC Analyst, Jr. Cybersecurity, Help Desk, and IT Support roles 
+(remote or hybrid).
 
 ## Skills
 
